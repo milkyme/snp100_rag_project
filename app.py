@@ -1,6 +1,6 @@
 import streamlit as st
 import importlib
-import snp100_rag_project.reranker as rag
+import reranker as rag
 import json
 
 importlib.reload(rag)
@@ -9,7 +9,7 @@ st.set_page_config(page_title="10-K RAG Demo", page_icon="📄", layout="wide")
 
 # ── Sidebar ────────────────────────────────────────────────────────────────
 st.sidebar.title("🔧 Parameters")
-rag.K1 = st.sidebar.slider("FAISS Top-K", 10, 300, rag.K1, step=10)
+rag.K1 = st.sidebar.slider("FAISS Top-K1", 10, 300, rag.K1, step=10)
 rag.K2 = st.sidebar.slider("Rerank Top-K2", 10, min(rag.K1, 100), min(rag.K2, rag.K1), step=5)
 rag.M = st.sidebar.slider("Final Top-M", 3, 20, rag.M)
 
