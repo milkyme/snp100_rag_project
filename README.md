@@ -3,6 +3,9 @@
 ## 📋 프로젝트 개요
 S&P 100 기업들의 SEC 공시문서(10-K)를 활용하여 기업 정보를 정확하게 검색하고 답변하는 RAG(Retrieval-Augmented Generation) 시스템입니다.
 
+## 🎬 시연 연상
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/LBBBavYPNJM)
+
 ## 🚀 주요 특징
 - **자동화된 데이터 수집**: SEC EDGAR API를 통한 최신 10-K 문서 크롤링
 - **지능형 문서 처리**: HTML 파싱 및 의미있는 섹션 추출
