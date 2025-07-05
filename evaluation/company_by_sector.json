@@ -1,0 +1,29 @@
+{
+  "Technology": [
+    "AAPL","MSFT","GOOG","AMZN","META","NVDA","ADBE","CRM","TSLA",
+    "CSCO","AMD","NOW","PLTR","IBM","AVGO","TXN","QCOM","INTU","PYPL","ACN"
+  ],
+  "Financial": [
+    "JPM","BAC","WFC","C","GS","BK","USB","SCHW","AXP","COF",
+    "BLK","AIG","MET","MS"
+  ],
+  "Healthcare": [
+    "UNH","JNJ","PFE","ABBV","MRK","TMO","ABT","DHR","BMY","GILD",
+    "AMGN","LLY","MDT","ISRG","CVS"
+  ],
+  "Consumer": [
+    "WMT","COST","HD","LOW","TGT","MCD","SBUX","NKE","KO","PEP",
+    "CL","PG","MDLZ"
+  ],
+  "TelecomMedia": [
+    "T","VZ","TMUS","CHTR","CMCSA","DIS","NFLX"
+  ],
+  "Industrial": [
+    "GE","CAT","BA","MMM","LMT","RTX","UPS","FDX","UNP","DE"
+  ],
+  "Energy": ["XOM","CVX","COP"],
+  "Utilities": ["NEE","DUK","SO","EMR"],
+  "Others": [
+    "SPG","AMT","BKNG","GD","MO","PM","LIN","V","MA","GM"
+  ]
+}

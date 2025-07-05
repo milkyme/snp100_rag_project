@@ -1,0 +1,481 @@
+q,ticker,company_name
+Apple Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.,AAPL,Apple Inc.
+Apple Inc.의 매출을 부문별로 설명해 줘.,AAPL,Apple Inc.
+Apple Inc.의 ESG 항목에서 강조한 이슈는?,AAPL,Apple Inc.
+Apple Inc.의 칩/하드웨어 로드맵을 요약해 줘.,AAPL,Apple Inc.
+Apple Inc.의 클라우드 서비스 매출 규모와 성장률은?,AAPL,Apple Inc.
+Microsoft Corporation의 비용 구조와 전년 대비 변동 요인을 알려줘.,MSFT,Microsoft Corporation
+Microsoft Corporation의 ESG 항목에서 강조한 이슈는?,MSFT,Microsoft Corporation
+Microsoft Corporation의 매출을 부문별로 설명해 줘.,MSFT,Microsoft Corporation
+Microsoft Corporation의 사이버보안·데이터 프라이버시 리스크를 언급한 내용은?,MSFT,Microsoft Corporation
+Microsoft Corporation의 AI / 머신러닝 인프라 투자 계획은?,MSFT,Microsoft Corporation
+Alphabet Inc. Class C의 주주환원 정책 주요 사항은?,GOOG,Alphabet Inc. Class C
+Alphabet Inc. Class C의 현금흐름 추세와 의미를 설명해 줘.,GOOG,Alphabet Inc. Class C
+Alphabet Inc. Class C의 매출을 부문별로 설명해 줘.,GOOG,Alphabet Inc. Class C
+Alphabet Inc. Class C의 AI / 머신러닝 인프라 투자 계획은?,GOOG,Alphabet Inc. Class C
+Alphabet Inc. Class C의 사이버보안·데이터 프라이버시 리스크를 언급한 내용은?,GOOG,Alphabet Inc. Class C
+"Amazon.com, Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",AMZN,"Amazon.com, Inc."
+"Amazon.com, Inc.의 ESG 항목에서 강조한 이슈는?",AMZN,"Amazon.com, Inc."
+"Amazon.com, Inc.의 주주환원 정책 주요 사항은?",AMZN,"Amazon.com, Inc."
+"Amazon.com, Inc.의 사이버보안·데이터 프라이버시 리스크를 언급한 내용은?",AMZN,"Amazon.com, Inc."
+"Amazon.com, Inc.의 AI / 머신러닝 인프라 투자 계획은?",AMZN,"Amazon.com, Inc."
+"Meta Platforms, Inc.의 주주환원 정책 주요 사항은?",META,"Meta Platforms, Inc."
+"Meta Platforms, Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",META,"Meta Platforms, Inc."
+"Meta Platforms, Inc.의 ESG 항목에서 강조한 이슈는?",META,"Meta Platforms, Inc."
+"Meta Platforms, Inc.의 구독·SaaS 매출 비중과 고객 유지율은?",META,"Meta Platforms, Inc."
+"Meta Platforms, Inc.의 클라우드 서비스 매출 규모와 성장률은?",META,"Meta Platforms, Inc."
+NVIDIA Corporation의 현금흐름 추세와 의미를 설명해 줘.,NVDA,NVIDIA Corporation
+NVIDIA Corporation의 주주환원 정책 주요 사항은?,NVDA,NVIDIA Corporation
+NVIDIA Corporation의 10-K 주요 리스크 3가지를 요약해 줘.,NVDA,NVIDIA Corporation
+NVIDIA Corporation의 AI / 머신러닝 인프라 투자 계획은?,NVDA,NVIDIA Corporation
+NVIDIA Corporation의 클라우드 서비스 매출 규모와 성장률은?,NVDA,NVIDIA Corporation
+Adobe Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.,ADBE,Adobe Inc.
+Adobe Inc.의 현금흐름 추세와 의미를 설명해 줘.,ADBE,Adobe Inc.
+Adobe Inc.의 10-K 주요 리스크 3가지를 요약해 줘.,ADBE,Adobe Inc.
+Adobe Inc.의 칩/하드웨어 로드맵을 요약해 줘.,ADBE,Adobe Inc.
+Adobe Inc.의 클라우드 서비스 매출 규모와 성장률은?,ADBE,Adobe Inc.
+"Salesforce, Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",CRM,"Salesforce, Inc."
+"Salesforce, Inc.의 10-K 주요 리스크 3가지를 요약해 줘.",CRM,"Salesforce, Inc."
+"Salesforce, Inc.의 매출을 부문별로 설명해 줘.",CRM,"Salesforce, Inc."
+"Salesforce, Inc.의 AI / 머신러닝 인프라 투자 계획은?",CRM,"Salesforce, Inc."
+"Salesforce, Inc.의 구독·SaaS 매출 비중과 고객 유지율은?",CRM,"Salesforce, Inc."
+"Tesla, Inc.의 매출을 부문별로 설명해 줘.",TSLA,"Tesla, Inc."
+"Tesla, Inc.의 10-K 주요 리스크 3가지를 요약해 줘.",TSLA,"Tesla, Inc."
+"Tesla, Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.",TSLA,"Tesla, Inc."
+"Tesla, Inc.의 사이버보안·데이터 프라이버시 리스크를 언급한 내용은?",TSLA,"Tesla, Inc."
+"Tesla, Inc.의 칩/하드웨어 로드맵을 요약해 줘.",TSLA,"Tesla, Inc."
+"Cisco Systems, Inc.의 ESG 항목에서 강조한 이슈는?",CSCO,"Cisco Systems, Inc."
+"Cisco Systems, Inc.의 매출을 부문별로 설명해 줘.",CSCO,"Cisco Systems, Inc."
+"Cisco Systems, Inc.의 현금흐름 추세와 의미를 설명해 줘.",CSCO,"Cisco Systems, Inc."
+"Cisco Systems, Inc.의 사이버보안·데이터 프라이버시 리스크를 언급한 내용은?",CSCO,"Cisco Systems, Inc."
+"Cisco Systems, Inc.의 AI / 머신러닝 인프라 투자 계획은?",CSCO,"Cisco Systems, Inc."
+"Advanced Micro Devices, Inc.의 현금흐름 추세와 의미를 설명해 줘.",AMD,"Advanced Micro Devices, Inc."
+"Advanced Micro Devices, Inc.의 매출을 부문별로 설명해 줘.",AMD,"Advanced Micro Devices, Inc."
+"Advanced Micro Devices, Inc.의 주주환원 정책 주요 사항은?",AMD,"Advanced Micro Devices, Inc."
+"Advanced Micro Devices, Inc.의 칩/하드웨어 로드맵을 요약해 줘.",AMD,"Advanced Micro Devices, Inc."
+"Advanced Micro Devices, Inc.의 사이버보안·데이터 프라이버시 리스크를 언급한 내용은?",AMD,"Advanced Micro Devices, Inc."
+"ServiceNow, Inc.의 주주환원 정책 주요 사항은?",NOW,"ServiceNow, Inc."
+"ServiceNow, Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",NOW,"ServiceNow, Inc."
+"ServiceNow, Inc.의 매출을 부문별로 설명해 줘.",NOW,"ServiceNow, Inc."
+"ServiceNow, Inc.의 AI / 머신러닝 인프라 투자 계획은?",NOW,"ServiceNow, Inc."
+"ServiceNow, Inc.의 클라우드 서비스 매출 규모와 성장률은?",NOW,"ServiceNow, Inc."
+Palantir Technologies Inc.의 ESG 항목에서 강조한 이슈는?,PLTR,Palantir Technologies Inc.
+Palantir Technologies Inc.의 10-K 주요 리스크 3가지를 요약해 줘.,PLTR,Palantir Technologies Inc.
+Palantir Technologies Inc.의 매출을 부문별로 설명해 줘.,PLTR,Palantir Technologies Inc.
+Palantir Technologies Inc.의 클라우드 서비스 매출 규모와 성장률은?,PLTR,Palantir Technologies Inc.
+Palantir Technologies Inc.의 AI / 머신러닝 인프라 투자 계획은?,PLTR,Palantir Technologies Inc.
+International Business Machines Corporation의 현금흐름 추세와 의미를 설명해 줘.,IBM,International Business Machines Corporation
+International Business Machines Corporation의 10-K 주요 리스크 3가지를 요약해 줘.,IBM,International Business Machines Corporation
+International Business Machines Corporation의 ESG 항목에서 강조한 이슈는?,IBM,International Business Machines Corporation
+International Business Machines Corporation의 칩/하드웨어 로드맵을 요약해 줘.,IBM,International Business Machines Corporation
+International Business Machines Corporation의 클라우드 서비스 매출 규모와 성장률은?,IBM,International Business Machines Corporation
+Broadcom Inc.의 10-K 주요 리스크 3가지를 요약해 줘.,AVGO,Broadcom Inc.
+Broadcom Inc.의 ESG 항목에서 강조한 이슈는?,AVGO,Broadcom Inc.
+Broadcom Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.,AVGO,Broadcom Inc.
+Broadcom Inc.의 칩/하드웨어 로드맵을 요약해 줘.,AVGO,Broadcom Inc.
+Broadcom Inc.의 AI / 머신러닝 인프라 투자 계획은?,AVGO,Broadcom Inc.
+Texas Instruments Incorporated의 주주환원 정책 주요 사항은?,TXN,Texas Instruments Incorporated
+Texas Instruments Incorporated의 지배구조·이사회 구성과 변화 사항을 알려줘.,TXN,Texas Instruments Incorporated
+Texas Instruments Incorporated의 비용 구조와 전년 대비 변동 요인을 알려줘.,TXN,Texas Instruments Incorporated
+Texas Instruments Incorporated의 사이버보안·데이터 프라이버시 리스크를 언급한 내용은?,TXN,Texas Instruments Incorporated
+Texas Instruments Incorporated의 클라우드 서비스 매출 규모와 성장률은?,TXN,Texas Instruments Incorporated
+QUALCOMM Incorporated의 비용 구조와 전년 대비 변동 요인을 알려줘.,QCOM,QUALCOMM Incorporated
+QUALCOMM Incorporated의 현금흐름 추세와 의미를 설명해 줘.,QCOM,QUALCOMM Incorporated
+QUALCOMM Incorporated의 지배구조·이사회 구성과 변화 사항을 알려줘.,QCOM,QUALCOMM Incorporated
+QUALCOMM Incorporated의 칩/하드웨어 로드맵을 요약해 줘.,QCOM,QUALCOMM Incorporated
+QUALCOMM Incorporated의 클라우드 서비스 매출 규모와 성장률은?,QCOM,QUALCOMM Incorporated
+Intuit Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.,INTU,Intuit Inc.
+Intuit Inc.의 10-K 주요 리스크 3가지를 요약해 줘.,INTU,Intuit Inc.
+Intuit Inc.의 매출을 부문별로 설명해 줘.,INTU,Intuit Inc.
+Intuit Inc.의 클라우드 서비스 매출 규모와 성장률은?,INTU,Intuit Inc.
+Intuit Inc.의 AI / 머신러닝 인프라 투자 계획은?,INTU,Intuit Inc.
+"PayPal Holdings, Inc.의 ESG 항목에서 강조한 이슈는?",PYPL,"PayPal Holdings, Inc."
+"PayPal Holdings, Inc.의 10-K 주요 리스크 3가지를 요약해 줘.",PYPL,"PayPal Holdings, Inc."
+"PayPal Holdings, Inc.의 현금흐름 추세와 의미를 설명해 줘.",PYPL,"PayPal Holdings, Inc."
+"PayPal Holdings, Inc.의 칩/하드웨어 로드맵을 요약해 줘.",PYPL,"PayPal Holdings, Inc."
+"PayPal Holdings, Inc.의 AI / 머신러닝 인프라 투자 계획은?",PYPL,"PayPal Holdings, Inc."
+Accenture plc의 비용 구조와 전년 대비 변동 요인을 알려줘.,ACN,Accenture plc
+Accenture plc의 주주환원 정책 주요 사항은?,ACN,Accenture plc
+Accenture plc의 10-K 주요 리스크 3가지를 요약해 줘.,ACN,Accenture plc
+Accenture plc의 클라우드 서비스 매출 규모와 성장률은?,ACN,Accenture plc
+Accenture plc의 구독·SaaS 매출 비중과 고객 유지율은?,ACN,Accenture plc
+JPMorgan Chase & Co.의 현금흐름 추세와 의미를 설명해 줘.,JPM,JPMorgan Chase & Co.
+JPMorgan Chase & Co.의 지배구조·이사회 구성과 변화 사항을 알려줘.,JPM,JPMorgan Chase & Co.
+JPMorgan Chase & Co.의 ESG 항목에서 강조한 이슈는?,JPM,JPMorgan Chase & Co.
+JPMorgan Chase & Co.의 Tier 1 자본비율과 규제 자본 요건은?,JPM,JPMorgan Chase & Co.
+JPMorgan Chase & Co.의 대손충당금 변동과 신용포트폴리오 질은?,JPM,JPMorgan Chase & Co.
+Bank of America Corporation의 비용 구조와 전년 대비 변동 요인을 알려줘.,BAC,Bank of America Corporation
+Bank of America Corporation의 ESG 항목에서 강조한 이슈는?,BAC,Bank of America Corporation
+Bank of America Corporation의 주주환원 정책 주요 사항은?,BAC,Bank of America Corporation
+Bank of America Corporation의 디지털·핀테크 전략 핵심 프로젝트는?,BAC,Bank of America Corporation
+Bank of America Corporation의 대손충당금 변동과 신용포트폴리오 질은?,BAC,Bank of America Corporation
+Wells Fargo & Company의 지배구조·이사회 구성과 변화 사항을 알려줘.,WFC,Wells Fargo & Company
+Wells Fargo & Company의 주주환원 정책 주요 사항은?,WFC,Wells Fargo & Company
+Wells Fargo & Company의 현금흐름 추세와 의미를 설명해 줘.,WFC,Wells Fargo & Company
+Wells Fargo & Company의 디지털·핀테크 전략 핵심 프로젝트는?,WFC,Wells Fargo & Company
+Wells Fargo & Company의 자산관리/운용 수수료 수익 구조를 설명해 줘.,WFC,Wells Fargo & Company
+C의 10-K 주요 리스크 3가지를 요약해 줘.,C,C
+C의 비용 구조와 전년 대비 변동 요인을 알려줘.,C,C
+C의 지배구조·이사회 구성과 변화 사항을 알려줘.,C,C
+C의 디지털·핀테크 전략 핵심 프로젝트는?,C,C
+C의 자산관리/운용 수수료 수익 구조를 설명해 줘.,C,C
+"The Goldman Sachs Group, Inc.의 매출을 부문별로 설명해 줘.",GS,"The Goldman Sachs Group, Inc."
+"The Goldman Sachs Group, Inc.의 ESG 항목에서 강조한 이슈는?",GS,"The Goldman Sachs Group, Inc."
+"The Goldman Sachs Group, Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.",GS,"The Goldman Sachs Group, Inc."
+"The Goldman Sachs Group, Inc.의 Tier 1 자본비율과 규제 자본 요건은?",GS,"The Goldman Sachs Group, Inc."
+"The Goldman Sachs Group, Inc.의 디지털·핀테크 전략 핵심 프로젝트는?",GS,"The Goldman Sachs Group, Inc."
+The Bank of New York Mellon Corporation의 ESG 항목에서 강조한 이슈는?,BK,The Bank of New York Mellon Corporation
+The Bank of New York Mellon Corporation의 지배구조·이사회 구성과 변화 사항을 알려줘.,BK,The Bank of New York Mellon Corporation
+The Bank of New York Mellon Corporation의 현금흐름 추세와 의미를 설명해 줘.,BK,The Bank of New York Mellon Corporation
+The Bank of New York Mellon Corporation의 디지털·핀테크 전략 핵심 프로젝트는?,BK,The Bank of New York Mellon Corporation
+The Bank of New York Mellon Corporation의 순이자마진(NIM) 추세와 이자율 영향은?,BK,The Bank of New York Mellon Corporation
+U.S. Bancorp의 현금흐름 추세와 의미를 설명해 줘.,USB,U.S. Bancorp
+U.S. Bancorp의 ESG 항목에서 강조한 이슈는?,USB,U.S. Bancorp
+U.S. Bancorp의 주주환원 정책 주요 사항은?,USB,U.S. Bancorp
+U.S. Bancorp의 자산관리/운용 수수료 수익 구조를 설명해 줘.,USB,U.S. Bancorp
+U.S. Bancorp의 대손충당금 변동과 신용포트폴리오 질은?,USB,U.S. Bancorp
+The Charles Schwab Corporation의 주주환원 정책 주요 사항은?,SCHW,The Charles Schwab Corporation
+The Charles Schwab Corporation의 매출을 부문별로 설명해 줘.,SCHW,The Charles Schwab Corporation
+The Charles Schwab Corporation의 지배구조·이사회 구성과 변화 사항을 알려줘.,SCHW,The Charles Schwab Corporation
+The Charles Schwab Corporation의 디지털·핀테크 전략 핵심 프로젝트는?,SCHW,The Charles Schwab Corporation
+The Charles Schwab Corporation의 대손충당금 변동과 신용포트폴리오 질은?,SCHW,The Charles Schwab Corporation
+American Express Company의 ESG 항목에서 강조한 이슈는?,AXP,American Express Company
+American Express Company의 지배구조·이사회 구성과 변화 사항을 알려줘.,AXP,American Express Company
+American Express Company의 10-K 주요 리스크 3가지를 요약해 줘.,AXP,American Express Company
+American Express Company의 순이자마진(NIM) 추세와 이자율 영향은?,AXP,American Express Company
+American Express Company의 대손충당금 변동과 신용포트폴리오 질은?,AXP,American Express Company
+Capital One Financial Corporation의 현금흐름 추세와 의미를 설명해 줘.,COF,Capital One Financial Corporation
+Capital One Financial Corporation의 비용 구조와 전년 대비 변동 요인을 알려줘.,COF,Capital One Financial Corporation
+Capital One Financial Corporation의 ESG 항목에서 강조한 이슈는?,COF,Capital One Financial Corporation
+Capital One Financial Corporation의 순이자마진(NIM) 추세와 이자율 영향은?,COF,Capital One Financial Corporation
+Capital One Financial Corporation의 대손충당금 변동과 신용포트폴리오 질은?,COF,Capital One Financial Corporation
+"BlackRock, Inc.의 주주환원 정책 주요 사항은?",BLK,"BlackRock, Inc."
+"BlackRock, Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",BLK,"BlackRock, Inc."
+"BlackRock, Inc.의 ESG 항목에서 강조한 이슈는?",BLK,"BlackRock, Inc."
+"BlackRock, Inc.의 순이자마진(NIM) 추세와 이자율 영향은?",BLK,"BlackRock, Inc."
+"BlackRock, Inc.의 대손충당금 변동과 신용포트폴리오 질은?",BLK,"BlackRock, Inc."
+"American International Group, Inc.의 ESG 항목에서 강조한 이슈는?",AIG,"American International Group, Inc."
+"American International Group, Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.",AIG,"American International Group, Inc."
+"American International Group, Inc.의 주주환원 정책 주요 사항은?",AIG,"American International Group, Inc."
+"American International Group, Inc.의 디지털·핀테크 전략 핵심 프로젝트는?",AIG,"American International Group, Inc."
+"American International Group, Inc.의 Tier 1 자본비율과 규제 자본 요건은?",AIG,"American International Group, Inc."
+"MetLife, Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",MET,"MetLife, Inc."
+"MetLife, Inc.의 10-K 주요 리스크 3가지를 요약해 줘.",MET,"MetLife, Inc."
+"MetLife, Inc.의 ESG 항목에서 강조한 이슈는?",MET,"MetLife, Inc."
+"MetLife, Inc.의 디지털·핀테크 전략 핵심 프로젝트는?",MET,"MetLife, Inc."
+"MetLife, Inc.의 순이자마진(NIM) 추세와 이자율 영향은?",MET,"MetLife, Inc."
+MS의 주주환원 정책 주요 사항은?,MS,MS
+MS의 10-K 주요 리스크 3가지를 요약해 줘.,MS,MS
+MS의 현금흐름 추세와 의미를 설명해 줘.,MS,MS
+MS의 순이자마진(NIM) 추세와 이자율 영향은?,MS,MS
+MS의 디지털·핀테크 전략 핵심 프로젝트는?,MS,MS
+UnitedHealth Group Incorporated의 10-K 주요 리스크 3가지를 요약해 줘.,UNH,UnitedHealth Group Incorporated
+UnitedHealth Group Incorporated의 ESG 항목에서 강조한 이슈는?,UNH,UnitedHealth Group Incorporated
+UnitedHealth Group Incorporated의 비용 구조와 전년 대비 변동 요인을 알려줘.,UNH,UnitedHealth Group Incorporated
+UnitedHealth Group Incorporated의 파이프라인(임상 단계·적응증)을 정리해 줘.,UNH,UnitedHealth Group Incorporated
+UnitedHealth Group Incorporated의 FDA 승인/보완요구 신약 일정은?,UNH,UnitedHealth Group Incorporated
+Johnson & Johnson의 주주환원 정책 주요 사항은?,JNJ,Johnson & Johnson
+Johnson & Johnson의 매출을 부문별로 설명해 줘.,JNJ,Johnson & Johnson
+Johnson & Johnson의 지배구조·이사회 구성과 변화 사항을 알려줘.,JNJ,Johnson & Johnson
+Johnson & Johnson의 특허 만료(LOE) 리스크와 대응 전략은?,JNJ,Johnson & Johnson
+Johnson & Johnson의 파이프라인(임상 단계·적응증)을 정리해 줘.,JNJ,Johnson & Johnson
+Pfizer Inc.의 ESG 항목에서 강조한 이슈는?,PFE,Pfizer Inc.
+Pfizer Inc.의 주주환원 정책 주요 사항은?,PFE,Pfizer Inc.
+Pfizer Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.,PFE,Pfizer Inc.
+Pfizer Inc.의 FDA 승인/보완요구 신약 일정은?,PFE,Pfizer Inc.
+Pfizer Inc.의 특허 만료(LOE) 리스크와 대응 전략은?,PFE,Pfizer Inc.
+AbbVie Inc.의 주주환원 정책 주요 사항은?,ABBV,AbbVie Inc.
+AbbVie Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.,ABBV,AbbVie Inc.
+AbbVie Inc.의 10-K 주요 리스크 3가지를 요약해 줘.,ABBV,AbbVie Inc.
+AbbVie Inc.의 의료기기·진단 부문 성과를 요약해 줘.,ABBV,AbbVie Inc.
+AbbVie Inc.의 특허 만료(LOE) 리스크와 대응 전략은?,ABBV,AbbVie Inc.
+"Merck & Co., Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",MRK,"Merck & Co., Inc."
+"Merck & Co., Inc.의 주주환원 정책 주요 사항은?",MRK,"Merck & Co., Inc."
+"Merck & Co., Inc.의 ESG 항목에서 강조한 이슈는?",MRK,"Merck & Co., Inc."
+"Merck & Co., Inc.의 R&D 지출 규모와 매출 대비 비중은?",MRK,"Merck & Co., Inc."
+"Merck & Co., Inc.의 특허 만료(LOE) 리스크와 대응 전략은?",MRK,"Merck & Co., Inc."
+Thermo Fisher Scientific Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.,TMO,Thermo Fisher Scientific Inc.
+Thermo Fisher Scientific Inc.의 ESG 항목에서 강조한 이슈는?,TMO,Thermo Fisher Scientific Inc.
+Thermo Fisher Scientific Inc.의 10-K 주요 리스크 3가지를 요약해 줘.,TMO,Thermo Fisher Scientific Inc.
+Thermo Fisher Scientific Inc.의 특허 만료(LOE) 리스크와 대응 전략은?,TMO,Thermo Fisher Scientific Inc.
+Thermo Fisher Scientific Inc.의 의료기기·진단 부문 성과를 요약해 줘.,TMO,Thermo Fisher Scientific Inc.
+Abbott Laboratories의 매출을 부문별로 설명해 줘.,ABT,Abbott Laboratories
+Abbott Laboratories의 비용 구조와 전년 대비 변동 요인을 알려줘.,ABT,Abbott Laboratories
+Abbott Laboratories의 지배구조·이사회 구성과 변화 사항을 알려줘.,ABT,Abbott Laboratories
+Abbott Laboratories의 파이프라인(임상 단계·적응증)을 정리해 줘.,ABT,Abbott Laboratories
+Abbott Laboratories의 R&D 지출 규모와 매출 대비 비중은?,ABT,Abbott Laboratories
+Danaher Corporation의 매출을 부문별로 설명해 줘.,DHR,Danaher Corporation
+Danaher Corporation의 주주환원 정책 주요 사항은?,DHR,Danaher Corporation
+Danaher Corporation의 지배구조·이사회 구성과 변화 사항을 알려줘.,DHR,Danaher Corporation
+Danaher Corporation의 FDA 승인/보완요구 신약 일정은?,DHR,Danaher Corporation
+Danaher Corporation의 의료기기·진단 부문 성과를 요약해 줘.,DHR,Danaher Corporation
+Bristol-Myers Squibb Company의 매출을 부문별로 설명해 줘.,BMY,Bristol-Myers Squibb Company
+Bristol-Myers Squibb Company의 ESG 항목에서 강조한 이슈는?,BMY,Bristol-Myers Squibb Company
+Bristol-Myers Squibb Company의 지배구조·이사회 구성과 변화 사항을 알려줘.,BMY,Bristol-Myers Squibb Company
+Bristol-Myers Squibb Company의 FDA 승인/보완요구 신약 일정은?,BMY,Bristol-Myers Squibb Company
+Bristol-Myers Squibb Company의 파이프라인(임상 단계·적응증)을 정리해 줘.,BMY,Bristol-Myers Squibb Company
+"Gilead Sciences, Inc.의 매출을 부문별로 설명해 줘.",GILD,"Gilead Sciences, Inc."
+"Gilead Sciences, Inc.의 10-K 주요 리스크 3가지를 요약해 줘.",GILD,"Gilead Sciences, Inc."
+"Gilead Sciences, Inc.의 ESG 항목에서 강조한 이슈는?",GILD,"Gilead Sciences, Inc."
+"Gilead Sciences, Inc.의 의료기기·진단 부문 성과를 요약해 줘.",GILD,"Gilead Sciences, Inc."
+"Gilead Sciences, Inc.의 FDA 승인/보완요구 신약 일정은?",GILD,"Gilead Sciences, Inc."
+Amgen Inc.의 10-K 주요 리스크 3가지를 요약해 줘.,AMGN,Amgen Inc.
+Amgen Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.,AMGN,Amgen Inc.
+Amgen Inc.의 현금흐름 추세와 의미를 설명해 줘.,AMGN,Amgen Inc.
+Amgen Inc.의 FDA 승인/보완요구 신약 일정은?,AMGN,Amgen Inc.
+Amgen Inc.의 의료기기·진단 부문 성과를 요약해 줘.,AMGN,Amgen Inc.
+Eli Lilly and Company의 지배구조·이사회 구성과 변화 사항을 알려줘.,LLY,Eli Lilly and Company
+Eli Lilly and Company의 주주환원 정책 주요 사항은?,LLY,Eli Lilly and Company
+Eli Lilly and Company의 ESG 항목에서 강조한 이슈는?,LLY,Eli Lilly and Company
+Eli Lilly and Company의 특허 만료(LOE) 리스크와 대응 전략은?,LLY,Eli Lilly and Company
+Eli Lilly and Company의 FDA 승인/보완요구 신약 일정은?,LLY,Eli Lilly and Company
+Medtronic plc의 ESG 항목에서 강조한 이슈는?,MDT,Medtronic plc
+Medtronic plc의 현금흐름 추세와 의미를 설명해 줘.,MDT,Medtronic plc
+Medtronic plc의 지배구조·이사회 구성과 변화 사항을 알려줘.,MDT,Medtronic plc
+Medtronic plc의 FDA 승인/보완요구 신약 일정은?,MDT,Medtronic plc
+Medtronic plc의 파이프라인(임상 단계·적응증)을 정리해 줘.,MDT,Medtronic plc
+"Intuitive Surgical, Inc.의 매출을 부문별로 설명해 줘.",ISRG,"Intuitive Surgical, Inc."
+"Intuitive Surgical, Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.",ISRG,"Intuitive Surgical, Inc."
+"Intuitive Surgical, Inc.의 현금흐름 추세와 의미를 설명해 줘.",ISRG,"Intuitive Surgical, Inc."
+"Intuitive Surgical, Inc.의 R&D 지출 규모와 매출 대비 비중은?",ISRG,"Intuitive Surgical, Inc."
+"Intuitive Surgical, Inc.의 특허 만료(LOE) 리스크와 대응 전략은?",ISRG,"Intuitive Surgical, Inc."
+CVS Health Corporation의 현금흐름 추세와 의미를 설명해 줘.,CVS,CVS Health Corporation
+CVS Health Corporation의 ESG 항목에서 강조한 이슈는?,CVS,CVS Health Corporation
+CVS Health Corporation의 매출을 부문별로 설명해 줘.,CVS,CVS Health Corporation
+CVS Health Corporation의 파이프라인(임상 단계·적응증)을 정리해 줘.,CVS,CVS Health Corporation
+CVS Health Corporation의 의료기기·진단 부문 성과를 요약해 줘.,CVS,CVS Health Corporation
+Walmart Inc.의 현금흐름 추세와 의미를 설명해 줘.,WMT,Walmart Inc.
+Walmart Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.,WMT,Walmart Inc.
+Walmart Inc.의 10-K 주요 리스크 3가지를 요약해 줘.,WMT,Walmart Inc.
+Walmart Inc.의 동일점포매출 추세와 성장 동인은?,WMT,Walmart Inc.
+Walmart Inc.의 이커머스·옴니채널 전략 목표는?,WMT,Walmart Inc.
+Costco Wholesale Corporation의 비용 구조와 전년 대비 변동 요인을 알려줘.,COST,Costco Wholesale Corporation
+Costco Wholesale Corporation의 ESG 항목에서 강조한 이슈는?,COST,Costco Wholesale Corporation
+Costco Wholesale Corporation의 주주환원 정책 주요 사항은?,COST,Costco Wholesale Corporation
+Costco Wholesale Corporation의 브랜드·마케팅 지출 규모 변화와 ROI는?,COST,Costco Wholesale Corporation
+Costco Wholesale Corporation의 이커머스·옴니채널 전략 목표는?,COST,Costco Wholesale Corporation
+"The Home Depot, Inc.의 현금흐름 추세와 의미를 설명해 줘.",HD,"The Home Depot, Inc."
+"The Home Depot, Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",HD,"The Home Depot, Inc."
+"The Home Depot, Inc.의 10-K 주요 리스크 3가지를 요약해 줘.",HD,"The Home Depot, Inc."
+"The Home Depot, Inc.의 브랜드·마케팅 지출 규모 변화와 ROI는?",HD,"The Home Depot, Inc."
+"The Home Depot, Inc.의 이커머스·옴니채널 전략 목표는?",HD,"The Home Depot, Inc."
+"Lowe's Companies, Inc.의 ESG 항목에서 강조한 이슈는?",LOW,"Lowe's Companies, Inc."
+"Lowe's Companies, Inc.의 매출을 부문별로 설명해 줘.",LOW,"Lowe's Companies, Inc."
+"Lowe's Companies, Inc.의 현금흐름 추세와 의미를 설명해 줘.",LOW,"Lowe's Companies, Inc."
+"Lowe's Companies, Inc.의 국제 시장 확장 현황과 지역별 성장률은?",LOW,"Lowe's Companies, Inc."
+"Lowe's Companies, Inc.의 동일점포매출 추세와 성장 동인은?",LOW,"Lowe's Companies, Inc."
+Target Corporation의 매출을 부문별로 설명해 줘.,TGT,Target Corporation
+Target Corporation의 지배구조·이사회 구성과 변화 사항을 알려줘.,TGT,Target Corporation
+Target Corporation의 주주환원 정책 주요 사항은?,TGT,Target Corporation
+Target Corporation의 동일점포매출 추세와 성장 동인은?,TGT,Target Corporation
+Target Corporation의 국제 시장 확장 현황과 지역별 성장률은?,TGT,Target Corporation
+MCD의 ESG 항목에서 강조한 이슈는?,MCD,MCD
+MCD의 비용 구조와 전년 대비 변동 요인을 알려줘.,MCD,MCD
+MCD의 지배구조·이사회 구성과 변화 사항을 알려줘.,MCD,MCD
+MCD의 브랜드·마케팅 지출 규모 변화와 ROI는?,MCD,MCD
+MCD의 국제 시장 확장 현황과 지역별 성장률은?,MCD,MCD
+Starbucks Corporation의 현금흐름 추세와 의미를 설명해 줘.,SBUX,Starbucks Corporation
+Starbucks Corporation의 비용 구조와 전년 대비 변동 요인을 알려줘.,SBUX,Starbucks Corporation
+Starbucks Corporation의 ESG 항목에서 강조한 이슈는?,SBUX,Starbucks Corporation
+Starbucks Corporation의 동일점포매출 추세와 성장 동인은?,SBUX,Starbucks Corporation
+Starbucks Corporation의 이커머스·옴니채널 전략 목표는?,SBUX,Starbucks Corporation
+"NIKE, Inc.의 현금흐름 추세와 의미를 설명해 줘.",NKE,"NIKE, Inc."
+"NIKE, Inc.의 매출을 부문별로 설명해 줘.",NKE,"NIKE, Inc."
+"NIKE, Inc.의 ESG 항목에서 강조한 이슈는?",NKE,"NIKE, Inc."
+"NIKE, Inc.의 원가 인플레이션 대응 방안은?",NKE,"NIKE, Inc."
+"NIKE, Inc.의 브랜드·마케팅 지출 규모 변화와 ROI는?",NKE,"NIKE, Inc."
+The Coca-Cola Company의 10-K 주요 리스크 3가지를 요약해 줘.,KO,The Coca-Cola Company
+The Coca-Cola Company의 현금흐름 추세와 의미를 설명해 줘.,KO,The Coca-Cola Company
+The Coca-Cola Company의 주주환원 정책 주요 사항은?,KO,The Coca-Cola Company
+The Coca-Cola Company의 브랜드·마케팅 지출 규모 변화와 ROI는?,KO,The Coca-Cola Company
+The Coca-Cola Company의 이커머스·옴니채널 전략 목표는?,KO,The Coca-Cola Company
+"PepsiCo, Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",PEP,"PepsiCo, Inc."
+"PepsiCo, Inc.의 10-K 주요 리스크 3가지를 요약해 줘.",PEP,"PepsiCo, Inc."
+"PepsiCo, Inc.의 ESG 항목에서 강조한 이슈는?",PEP,"PepsiCo, Inc."
+"PepsiCo, Inc.의 동일점포매출 추세와 성장 동인은?",PEP,"PepsiCo, Inc."
+"PepsiCo, Inc.의 국제 시장 확장 현황과 지역별 성장률은?",PEP,"PepsiCo, Inc."
+Colgate-Palmolive Company의 지배구조·이사회 구성과 변화 사항을 알려줘.,CL,Colgate-Palmolive Company
+Colgate-Palmolive Company의 10-K 주요 리스크 3가지를 요약해 줘.,CL,Colgate-Palmolive Company
+Colgate-Palmolive Company의 매출을 부문별로 설명해 줘.,CL,Colgate-Palmolive Company
+Colgate-Palmolive Company의 동일점포매출 추세와 성장 동인은?,CL,Colgate-Palmolive Company
+Colgate-Palmolive Company의 브랜드·마케팅 지출 규모 변화와 ROI는?,CL,Colgate-Palmolive Company
+The Procter & Gamble Company의 주주환원 정책 주요 사항은?,PG,The Procter & Gamble Company
+The Procter & Gamble Company의 ESG 항목에서 강조한 이슈는?,PG,The Procter & Gamble Company
+The Procter & Gamble Company의 비용 구조와 전년 대비 변동 요인을 알려줘.,PG,The Procter & Gamble Company
+The Procter & Gamble Company의 동일점포매출 추세와 성장 동인은?,PG,The Procter & Gamble Company
+The Procter & Gamble Company의 국제 시장 확장 현황과 지역별 성장률은?,PG,The Procter & Gamble Company
+"Mondelez International, Inc.의 ESG 항목에서 강조한 이슈는?",MDLZ,"Mondelez International, Inc."
+"Mondelez International, Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",MDLZ,"Mondelez International, Inc."
+"Mondelez International, Inc.의 매출을 부문별로 설명해 줘.",MDLZ,"Mondelez International, Inc."
+"Mondelez International, Inc.의 국제 시장 확장 현황과 지역별 성장률은?",MDLZ,"Mondelez International, Inc."
+"Mondelez International, Inc.의 동일점포매출 추세와 성장 동인은?",MDLZ,"Mondelez International, Inc."
+AT&T Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.,T,AT&T Inc.
+AT&T Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.,T,AT&T Inc.
+AT&T Inc.의 현금흐름 추세와 의미를 설명해 줘.,T,AT&T Inc.
+AT&T Inc.의 가입자 순증·이탈률 현황은?,T,AT&T Inc.
+AT&T Inc.의 콘텐츠·스튜디오 투자 계획은?,T,AT&T Inc.
+Verizon Communications Inc.의 주주환원 정책 주요 사항은?,VZ,Verizon Communications Inc.
+Verizon Communications Inc.의 ESG 항목에서 강조한 이슈는?,VZ,Verizon Communications Inc.
+Verizon Communications Inc.의 매출을 부문별로 설명해 줘.,VZ,Verizon Communications Inc.
+Verizon Communications Inc.의 라이센스·배급 계약 주요 변동은?,VZ,Verizon Communications Inc.
+Verizon Communications Inc.의 가입자 순증·이탈률 현황은?,VZ,Verizon Communications Inc.
+"T-Mobile US, Inc.의 현금흐름 추세와 의미를 설명해 줘.",TMUS,"T-Mobile US, Inc."
+"T-Mobile US, Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.",TMUS,"T-Mobile US, Inc."
+"T-Mobile US, Inc.의 주주환원 정책 주요 사항은?",TMUS,"T-Mobile US, Inc."
+"T-Mobile US, Inc.의 라이센스·배급 계약 주요 변동은?",TMUS,"T-Mobile US, Inc."
+"T-Mobile US, Inc.의 5G/광대역 CAPEX 투입 금액과 일정은?",TMUS,"T-Mobile US, Inc."
+"Charter Communications, Inc.의 10-K 주요 리스크 3가지를 요약해 줘.",CHTR,"Charter Communications, Inc."
+"Charter Communications, Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",CHTR,"Charter Communications, Inc."
+"Charter Communications, Inc.의 ESG 항목에서 강조한 이슈는?",CHTR,"Charter Communications, Inc."
+"Charter Communications, Inc.의 콘텐츠·스튜디오 투자 계획은?",CHTR,"Charter Communications, Inc."
+"Charter Communications, Inc.의 5G/광대역 CAPEX 투입 금액과 일정은?",CHTR,"Charter Communications, Inc."
+Comcast Corporation의 현금흐름 추세와 의미를 설명해 줘.,CMCSA,Comcast Corporation
+Comcast Corporation의 비용 구조와 전년 대비 변동 요인을 알려줘.,CMCSA,Comcast Corporation
+Comcast Corporation의 10-K 주요 리스크 3가지를 요약해 줘.,CMCSA,Comcast Corporation
+Comcast Corporation의 광고 매출 비중과 경기 민감도를 설명해 줘.,CMCSA,Comcast Corporation
+Comcast Corporation의 5G/광대역 CAPEX 투입 금액과 일정은?,CMCSA,Comcast Corporation
+The Walt Disney Company의 ESG 항목에서 강조한 이슈는?,DIS,The Walt Disney Company
+The Walt Disney Company의 매출을 부문별로 설명해 줘.,DIS,The Walt Disney Company
+The Walt Disney Company의 지배구조·이사회 구성과 변화 사항을 알려줘.,DIS,The Walt Disney Company
+The Walt Disney Company의 광고 매출 비중과 경기 민감도를 설명해 줘.,DIS,The Walt Disney Company
+The Walt Disney Company의 가입자 순증·이탈률 현황은?,DIS,The Walt Disney Company
+"Netflix, Inc.의 매출을 부문별로 설명해 줘.",NFLX,"Netflix, Inc."
+"Netflix, Inc.의 주주환원 정책 주요 사항은?",NFLX,"Netflix, Inc."
+"Netflix, Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",NFLX,"Netflix, Inc."
+"Netflix, Inc.의 라이센스·배급 계약 주요 변동은?",NFLX,"Netflix, Inc."
+"Netflix, Inc.의 5G/광대역 CAPEX 투입 금액과 일정은?",NFLX,"Netflix, Inc."
+GE의 비용 구조와 전년 대비 변동 요인을 알려줘.,GE,GE
+GE의 10-K 주요 리스크 3가지를 요약해 줘.,GE,GE
+GE의 매출을 부문별로 설명해 줘.,GE,GE
+GE의 원재료·공급망 리스크 및 대응 전략은?,GE,GE
+GE의 국방·정부 계약 비중과 규제 요건은?,GE,GE
+Caterpillar Inc.의 10-K 주요 리스크 3가지를 요약해 줘.,CAT,Caterpillar Inc.
+Caterpillar Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.,CAT,Caterpillar Inc.
+Caterpillar Inc.의 현금흐름 추세와 의미를 설명해 줘.,CAT,Caterpillar Inc.
+Caterpillar Inc.의 지속가능·친환경 제조 이니셔티브를 요약해 줘.,CAT,Caterpillar Inc.
+Caterpillar Inc.의 국방·정부 계약 비중과 규제 요건은?,CAT,Caterpillar Inc.
+The Boeing Company의 주주환원 정책 주요 사항은?,BA,The Boeing Company
+The Boeing Company의 지배구조·이사회 구성과 변화 사항을 알려줘.,BA,The Boeing Company
+The Boeing Company의 ESG 항목에서 강조한 이슈는?,BA,The Boeing Company
+The Boeing Company의 수주잔고(Backlog) 규모와 변화는?,BA,The Boeing Company
+The Boeing Company의 국방·정부 계약 비중과 규제 요건은?,BA,The Boeing Company
+3M Company의 지배구조·이사회 구성과 변화 사항을 알려줘.,MMM,3M Company
+3M Company의 매출을 부문별로 설명해 줘.,MMM,3M Company
+3M Company의 비용 구조와 전년 대비 변동 요인을 알려줘.,MMM,3M Company
+3M Company의 국방·정부 계약 비중과 규제 요건은?,MMM,3M Company
+3M Company의 수주잔고(Backlog) 규모와 변화는?,MMM,3M Company
+Lockheed Martin Corporation의 매출을 부문별로 설명해 줘.,LMT,Lockheed Martin Corporation
+Lockheed Martin Corporation의 지배구조·이사회 구성과 변화 사항을 알려줘.,LMT,Lockheed Martin Corporation
+Lockheed Martin Corporation의 주주환원 정책 주요 사항은?,LMT,Lockheed Martin Corporation
+Lockheed Martin Corporation의 원재료·공급망 리스크 및 대응 전략은?,LMT,Lockheed Martin Corporation
+Lockheed Martin Corporation의 국방·정부 계약 비중과 규제 요건은?,LMT,Lockheed Martin Corporation
+RTX Corporation의 10-K 주요 리스크 3가지를 요약해 줘.,RTX,RTX Corporation
+RTX Corporation의 주주환원 정책 주요 사항은?,RTX,RTX Corporation
+RTX Corporation의 비용 구조와 전년 대비 변동 요인을 알려줘.,RTX,RTX Corporation
+RTX Corporation의 국방·정부 계약 비중과 규제 요건은?,RTX,RTX Corporation
+RTX Corporation의 원재료·공급망 리스크 및 대응 전략은?,RTX,RTX Corporation
+"United Parcel Service, Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.",UPS,"United Parcel Service, Inc."
+"United Parcel Service, Inc.의 ESG 항목에서 강조한 이슈는?",UPS,"United Parcel Service, Inc."
+"United Parcel Service, Inc.의 10-K 주요 리스크 3가지를 요약해 줘.",UPS,"United Parcel Service, Inc."
+"United Parcel Service, Inc.의 지속가능·친환경 제조 이니셔티브를 요약해 줘.",UPS,"United Parcel Service, Inc."
+"United Parcel Service, Inc.의 설비투자(CAPEX) 계획과 ROI 목표는?",UPS,"United Parcel Service, Inc."
+FedEx Corporation의 10-K 주요 리스크 3가지를 요약해 줘.,FDX,FedEx Corporation
+FedEx Corporation의 매출을 부문별로 설명해 줘.,FDX,FedEx Corporation
+FedEx Corporation의 지배구조·이사회 구성과 변화 사항을 알려줘.,FDX,FedEx Corporation
+FedEx Corporation의 설비투자(CAPEX) 계획과 ROI 목표는?,FDX,FedEx Corporation
+FedEx Corporation의 국방·정부 계약 비중과 규제 요건은?,FDX,FedEx Corporation
+Union Pacific Corporation의 매출을 부문별로 설명해 줘.,UNP,Union Pacific Corporation
+Union Pacific Corporation의 ESG 항목에서 강조한 이슈는?,UNP,Union Pacific Corporation
+Union Pacific Corporation의 10-K 주요 리스크 3가지를 요약해 줘.,UNP,Union Pacific Corporation
+Union Pacific Corporation의 원재료·공급망 리스크 및 대응 전략은?,UNP,Union Pacific Corporation
+Union Pacific Corporation의 국방·정부 계약 비중과 규제 요건은?,UNP,Union Pacific Corporation
+Deere & Company의 비용 구조와 전년 대비 변동 요인을 알려줘.,DE,Deere & Company
+Deere & Company의 지배구조·이사회 구성과 변화 사항을 알려줘.,DE,Deere & Company
+Deere & Company의 현금흐름 추세와 의미를 설명해 줘.,DE,Deere & Company
+Deere & Company의 지속가능·친환경 제조 이니셔티브를 요약해 줘.,DE,Deere & Company
+Deere & Company의 설비투자(CAPEX) 계획과 ROI 목표는?,DE,Deere & Company
+Exxon Mobil Corporation의 주주환원 정책 주요 사항은?,XOM,Exxon Mobil Corporation
+Exxon Mobil Corporation의 매출을 부문별로 설명해 줘.,XOM,Exxon Mobil Corporation
+Exxon Mobil Corporation의 지배구조·이사회 구성과 변화 사항을 알려줘.,XOM,Exxon Mobil Corporation
+Exxon Mobil Corporation의 석유·가스 생산량 추세와 자본 효율성은?,XOM,Exxon Mobil Corporation
+Exxon Mobil Corporation의 탄소배출·에너지전환 목표와 투자 규모는?,XOM,Exxon Mobil Corporation
+Chevron Corporation의 주주환원 정책 주요 사항은?,CVX,Chevron Corporation
+Chevron Corporation의 매출을 부문별로 설명해 줘.,CVX,Chevron Corporation
+Chevron Corporation의 10-K 주요 리스크 3가지를 요약해 줘.,CVX,Chevron Corporation
+Chevron Corporation의 정제 마진 추세 및 전망은?,CVX,Chevron Corporation
+Chevron Corporation의 탄소배출·에너지전환 목표와 투자 규모는?,CVX,Chevron Corporation
+ConocoPhillips의 현금흐름 추세와 의미를 설명해 줘.,COP,ConocoPhillips
+ConocoPhillips의 비용 구조와 전년 대비 변동 요인을 알려줘.,COP,ConocoPhillips
+ConocoPhillips의 매출을 부문별로 설명해 줘.,COP,ConocoPhillips
+ConocoPhillips의 원유·가스 헤징 전략과 실적 영향은?,COP,ConocoPhillips
+ConocoPhillips의 정제 마진 추세 및 전망은?,COP,ConocoPhillips
+"NextEra Energy, Inc.의 ESG 항목에서 강조한 이슈는?",NEE,"NextEra Energy, Inc."
+"NextEra Energy, Inc.의 매출을 부문별로 설명해 줘.",NEE,"NextEra Energy, Inc."
+"NextEra Energy, Inc.의 10-K 주요 리스크 3가지를 요약해 줘.",NEE,"NextEra Energy, Inc."
+"NextEra Energy, Inc.의 신재생 발전용량 확충 계획을 설명해 줘.",NEE,"NextEra Energy, Inc."
+"NextEra Energy, Inc.의 배당 정책(배당성향·증가율) 특징은?",NEE,"NextEra Energy, Inc."
+Duke Energy Corporation의 지배구조·이사회 구성과 변화 사항을 알려줘.,DUK,Duke Energy Corporation
+Duke Energy Corporation의 매출을 부문별로 설명해 줘.,DUK,Duke Energy Corporation
+Duke Energy Corporation의 10-K 주요 리스크 3가지를 요약해 줘.,DUK,Duke Energy Corporation
+Duke Energy Corporation의 배당 정책(배당성향·증가율) 특징은?,DUK,Duke Energy Corporation
+Duke Energy Corporation의 기후·자연재해 리스크 대응 계획은?,DUK,Duke Energy Corporation
+The Southern Company의 주주환원 정책 주요 사항은?,SO,The Southern Company
+The Southern Company의 지배구조·이사회 구성과 변화 사항을 알려줘.,SO,The Southern Company
+The Southern Company의 비용 구조와 전년 대비 변동 요인을 알려줘.,SO,The Southern Company
+The Southern Company의 신재생 발전용량 확충 계획을 설명해 줘.,SO,The Southern Company
+The Southern Company의 배당 정책(배당성향·증가율) 특징은?,SO,The Southern Company
+Emerson Electric Co.의 ESG 항목에서 강조한 이슈는?,EMR,Emerson Electric Co.
+Emerson Electric Co.의 비용 구조와 전년 대비 변동 요인을 알려줘.,EMR,Emerson Electric Co.
+Emerson Electric Co.의 현금흐름 추세와 의미를 설명해 줘.,EMR,Emerson Electric Co.
+Emerson Electric Co.의 규제 기준 ROE와 실제 수익률 격차는?,EMR,Emerson Electric Co.
+Emerson Electric Co.의 신재생 발전용량 확충 계획을 설명해 줘.,EMR,Emerson Electric Co.
+"Simon Property Group, Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.",SPG,"Simon Property Group, Inc."
+"Simon Property Group, Inc.의 10-K 주요 리스크 3가지를 요약해 줘.",SPG,"Simon Property Group, Inc."
+"Simon Property Group, Inc.의 현금흐름 추세와 의미를 설명해 줘.",SPG,"Simon Property Group, Inc."
+"Simon Property Group, Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",SPG,"Simon Property Group, Inc."
+"Simon Property Group, Inc.의 주주환원 정책 주요 사항은?",SPG,"Simon Property Group, Inc."
+American Tower Corporation의 비용 구조와 전년 대비 변동 요인을 알려줘.,AMT,American Tower Corporation
+American Tower Corporation의 지배구조·이사회 구성과 변화 사항을 알려줘.,AMT,American Tower Corporation
+American Tower Corporation의 매출을 부문별로 설명해 줘.,AMT,American Tower Corporation
+American Tower Corporation의 현금흐름 추세와 의미를 설명해 줘.,AMT,American Tower Corporation
+American Tower Corporation의 주주환원 정책 주요 사항은?,AMT,American Tower Corporation
+Booking Holdings Inc.의 ESG 항목에서 강조한 이슈는?,BKNG,Booking Holdings Inc.
+Booking Holdings Inc.의 현금흐름 추세와 의미를 설명해 줘.,BKNG,Booking Holdings Inc.
+Booking Holdings Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.,BKNG,Booking Holdings Inc.
+Booking Holdings Inc.의 주주환원 정책 주요 사항은?,BKNG,Booking Holdings Inc.
+Booking Holdings Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.,BKNG,Booking Holdings Inc.
+General Dynamics Corporation의 10-K 주요 리스크 3가지를 요약해 줘.,GD,General Dynamics Corporation
+General Dynamics Corporation의 ESG 항목에서 강조한 이슈는?,GD,General Dynamics Corporation
+General Dynamics Corporation의 비용 구조와 전년 대비 변동 요인을 알려줘.,GD,General Dynamics Corporation
+General Dynamics Corporation의 주주환원 정책 주요 사항은?,GD,General Dynamics Corporation
+General Dynamics Corporation의 매출을 부문별로 설명해 줘.,GD,General Dynamics Corporation
+"Altria Group, Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.",MO,"Altria Group, Inc."
+"Altria Group, Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.",MO,"Altria Group, Inc."
+"Altria Group, Inc.의 현금흐름 추세와 의미를 설명해 줘.",MO,"Altria Group, Inc."
+"Altria Group, Inc.의 10-K 주요 리스크 3가지를 요약해 줘.",MO,"Altria Group, Inc."
+"Altria Group, Inc.의 ESG 항목에서 강조한 이슈는?",MO,"Altria Group, Inc."
+Philip Morris International Inc.의 ESG 항목에서 강조한 이슈는?,PM,Philip Morris International Inc.
+Philip Morris International Inc.의 매출을 부문별로 설명해 줘.,PM,Philip Morris International Inc.
+Philip Morris International Inc.의 10-K 주요 리스크 3가지를 요약해 줘.,PM,Philip Morris International Inc.
+Philip Morris International Inc.의 주주환원 정책 주요 사항은?,PM,Philip Morris International Inc.
+Philip Morris International Inc.의 현금흐름 추세와 의미를 설명해 줘.,PM,Philip Morris International Inc.
+Linde plc의 주주환원 정책 주요 사항은?,LIN,Linde plc
+Linde plc의 현금흐름 추세와 의미를 설명해 줘.,LIN,Linde plc
+Linde plc의 ESG 항목에서 강조한 이슈는?,LIN,Linde plc
+Linde plc의 10-K 주요 리스크 3가지를 요약해 줘.,LIN,Linde plc
+Linde plc의 매출을 부문별로 설명해 줘.,LIN,Linde plc
+Visa Inc.의 매출을 부문별로 설명해 줘.,V,Visa Inc.
+Visa Inc.의 10-K 주요 리스크 3가지를 요약해 줘.,V,Visa Inc.
+Visa Inc.의 비용 구조와 전년 대비 변동 요인을 알려줘.,V,Visa Inc.
+Visa Inc.의 지배구조·이사회 구성과 변화 사항을 알려줘.,V,Visa Inc.
+Visa Inc.의 ESG 항목에서 강조한 이슈는?,V,Visa Inc.
+Mastercard Incorporated의 매출을 부문별로 설명해 줘.,MA,Mastercard Incorporated
+Mastercard Incorporated의 주주환원 정책 주요 사항은?,MA,Mastercard Incorporated
+Mastercard Incorporated의 현금흐름 추세와 의미를 설명해 줘.,MA,Mastercard Incorporated
+Mastercard Incorporated의 10-K 주요 리스크 3가지를 요약해 줘.,MA,Mastercard Incorporated
+Mastercard Incorporated의 지배구조·이사회 구성과 변화 사항을 알려줘.,MA,Mastercard Incorporated
+General Motors Company의 ESG 항목에서 강조한 이슈는?,GM,General Motors Company
+General Motors Company의 10-K 주요 리스크 3가지를 요약해 줘.,GM,General Motors Company
+General Motors Company의 현금흐름 추세와 의미를 설명해 줘.,GM,General Motors Company
+General Motors Company의 매출을 부문별로 설명해 줘.,GM,General Motors Company
+General Motors Company의 비용 구조와 전년 대비 변동 요인을 알려줘.,GM,General Motors Company
