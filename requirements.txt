@@ -1,0 +1,14 @@
+beautifulsoup4==4.13.4
+faiss-cpu==1.7.4
+lxml==5.4.0
+nltk==3.9.1
+numpy==1.26.4
+openai==1.86.0
+pandas==2.3.0
+requests==2.32.4
+scikit-learn==1.7.0
+streamlit==1.45.1
+tiktoken==0.9.0
+torch==2.2.2
+tqdm==4.67.1
+transformers==4.52.4
